@@ -1,0 +1,69 @@
+﻿No.,Topic/title,Year,First author,Last author,DOI,URL
+1,"Correlation, regression and repeated data ",1994,Bland,Altman,10.1136/bmj.308.6933.896,https://www.bmj.com/content/308/6933/896
+2,Regression towards the mean ,1994,Bland,Altman,10.1136/bmj.308.6942.1499,https://www.bmj.com/content/308/6942/1499 
+3,Diagnostic tests 1: sensitivity and specificity ,1994,Altman,Bland,10.1136/bmj.308.6943.1552,https://www.bmj.com/content/308/6943/1552   
+4,Diagnostic tests 2: predictive values  ,1994,Altman,Bland,10.1136/bmj.309.6947.102,https://www.bmj.com/content/309/6947/102.1 
+5,Diagnostic tests 3: receiver operating characteristic plots,1994,Altman,Bland,10.1136/bmj.309.6948.188,https://www.bmj.com/content/309/6948/188
+6,One and two sided tests of significance,1994,Bland,Altman,10.1136/bmj.309.6949.248,https://www.bmj.com/content/309/6949/248 
+7,Some examples of regression towards the mean ,1994,Bland,Altman,10.1136/bmj.309.6957.780,https://www.bmj.com/content/309/6957/780 
+8,"Quartiles, quintiles, centiles and other quantiles ",1994,Altman,Bland,10.1136/bmj.309.6960.996,https://www.bmj.com/content/309/6960/996 
+9,Matching,1994,Bland,Altman,10.1136/bmj.309.6962.1128,https://www.bmj.com/content/309/6962/1128 
+10,Multiple significance tests: the Bonferroni method,1995,Bland,Altman,10.1136/bmj.310.6973.170,https://www.bmj.com/content/310/6973/170 
+11,The Normal distribution,1995,Altman,Bland,10.1136/bmj.310.6975.298,https://www.bmj.com/content/310/6975/298 
+12,Calculating correlation coefficients with repeated observations: Part 1 - correlation within subjects,1995,Bland,Altman,10.1136/bmj.310.6977.446,https://www.bmj.com/content/310/6977/446 
+13,Calculating correlation coefficients with repeated observations: Part 2 - correlation between subjects,1995,Bland,Altman,10.1136/bmj.310.6980.633,https://www.bmj.com/content/310/6980/633 
+14,Absence of evidence is not evidence of absence ,1995,Altman,Bland,10.1136/bmj.311.7003.485,https://www.bmj.com/content/311/7003/485 
+15,Presentation of numerical data ,1996,Altman,Bland,10.1136/bmj.312.7030.572,https://www.bmj.com/content/312/7030/572.1 
+16,Logarithms,1996,Bland,Altman,10.1136/bmj.312.7032.700,https://www.bmj.com/content/312/7032/700 
+17,Transforming data,1996,Bland,Altman,10.1136/bmj.312.7033.770,https://www.bmj.com/content/312/7033/770 
+18,"Transformations, means and confidence intervals ",1996,Bland,Altman,10.1136/bmj.312.7038.1079,https://www.bmj.com/content/312/7038/1079 
+19,The use of transformation when comparing two means ,1996,Bland,Altman,10.1136/bmj.312.7039.1153,https://www.bmj.com/content/312/7039/1153 
+20,Comparing several groups using analysis of variance ,1996,Altman,Bland,10.1136/bmj.312.7044.1472,https://www.bmj.com/content/312/7044/1472 
+21,Measurement error  ,1996,Bland,Altman,10.1136/bmj.313.7059.744,https://www.bmj.com/content/313/7059/744.1 
+22,Measurement error and correlation coefficients ,1996,Bland,Altman,10.1136/bmj.313.7048.41,https://www.bmj.com/content/313/7048/41 
+23,Measurement error proportional to the mean ,1996,Bland,Altman,10.1136/bmj.313.7049.106,https://www.bmj.com/content/313/7049/106 
+24,Interaction 1: Heterogeneity of effects ,1996,Altman,Matthews,10.1136/bmj.313.7055.486,https://www.bmj.com/content/313/7055/486 
+25,Interaction 2: Compare effect sizes not P values,1996,Matthews,Altman,10.1136/bmj.313.7060.808,https://www.bmj.com/content/313/7060/808 
+26,Interaction 3: How to examine heterogeneity,1996,Matthews,Altman,10.1136/bmj.313.7061.862,https://www.bmj.com/content/313/7061/862 
+27,Detecting skewness from summary information,1996,Altman,Bland,10.1136/bmj.313.7066.1200,https://www.bmj.com/content/313/7066/1200.1 
+28,Cronbach’s alpha,1998,Bland,Altman,10.1136/bmj.314.7080.572,https://www.bmj.com/content/314/7080/572 
+29,Units of analysis,1998,Altman,Bland,10.1136/bmj.314.7098.1874,https://www.bmj.com/content/314/7098/1874 
+30,Trials randomised in clusters,1998,Bland,Kerry,10.1136/bmj.315.7108.600,https://www.bmj.com/content/315/7108/600 
+31,Analysis of a trial randomised in clusters,1998,Kerry,Bland,10.1136/bmj.316.7124.54,https://www.bmj.com/content/316/7124/54 
+32,Weighted comparison of means,1998,Bland,Kerry,10.1136/bmj.316.7125.129,https://www.bmj.com/content/316/7125/129 
+33,Sample size in cluster randomisation,1998,Kerry,Bland,10.1136/bmj.316.7130.549,https://www.bmj.com/content/316/7130/549 
+34,The intra-cluster correlation coefficient in cluster randomisation,1998,Kerry,Bland,10.1136/bmj.316.7142.1455,https://www.bmj.com/content/316/7142/1455.1 
+35,Generalisation and extrapolation,1998,Altman,Bland,10.1136/bmj.317.7155.409,https://www.bmj.com/content/317/7155/409 
+36,Time to event (survival) data,1998,Altman,Bland,10.1136/bmj.317.7156.468,https://www.bmj.com/content/317/7156/468.1 
+37,Bayesians and frequentists ,1998,Bland,Altman,10.1136/bmj.317.7166.1151,https://www.bmj.com/content/317/7166/1151.1 
+38,Survival probabilities (the Kaplan-Meier method),1998,Bland,Altman,10.1136/bmj.317.7172.1572,https://www.bmj.com/content/317/7172/1572 
+39,Treatment allocation in controlled trials: why randomise?,1999,Altman,Bland,10.1136/bmj.318.7192.1209,https://www.bmj.com/content/318/7192/1209.1 
+40,Variables and parameters,1999,Altman,Bland,10.1136/bmj.318.7199.1667,https://www.bmj.com/content/318/7199/1667 
+41,How to randomise,1999,Altman,Bland,10.1136/bmj.319.7211.703,https://www.bmj.com/content/319/7211/703.1 
+42,The odds ratio,2000,Bland,Altman,10.1136/bmj.320.7247.1468,https://www.bmj.com/content/320/7247/1468.1 
+43,Blinding in clinical trials and other studies,2000,Day,Altman,10.1136/bmj.321.7259.504,https://www.bmj.com/content/321/7259/504 
+44,Concealing treatment allocation in randomised trials,2001,Altman,Schulz,10.1136/bmj.323.7310.446,https://www.bmj.com/content/323/7310/446.1 
+45,Analysing controlled trials with baseline and follow-up measurements,2001,Vickers,Altman,10.1136/bmj.323.7321.1123,https://www.bmj.com/content/323/7321/1123 
+46,Validating scales and indexes,2002,Bland,Altman,10.1136/bmj.324.7337.606,https://www.bmj.com/content/324/7337/606.1 
+47,Interaction revisited: the difference between two estimates,2003,Altman,Bland,10.1136/bmj.326.7382.219,https://www.bmj.com/content/326/7382/219 
+48,The logrank test,2004,Bland,Altman,10.1136/bmj.328.7447.1073,https://www.bmj.com/content/328/7447/1073 
+49,Diagnostic tests 4: the likelihood ratio,2004,Deeks,Altman,10.1136/bmj.329.7458.168,https://www.bmj.com/content/329/7458/168 
+50,Treatment allocation by minimisation,2005,Altman,Bland,10.1136/bmj.330.7495.843,https://www.bmj.com/content/330/7495/843 
+51,Standard deviations and standard errors,2005,Altman,Bland,10.1136/bmj.331.7521.903,https://www.bmj.com/content/331/7521/903 
+52,The cost of dichotomising continuous variables,2006,Altman,Royston,10.1136/bmj.332.7549.1080,https://www.bmj.com/content/332/7549/1080.1 
+53,Missing data,2007,Altman,Bland,10.1136/bmj.38977.682025.2C,https://www.bmj.com/content/334/7590/424 
+54,Parametric v non-parametric methods for data analysis,2009,Altman,Bland,10.1136/bmj.a3167,https://www.bmj.com/content/338/bmj.a3167 
+55,Analysis of continuous data from small samples,2009,Bland,Altman,10.1136/bmj.a3166,https://www.bmj.com/content/338/bmj.a3166 
+56,Correlation in restricted ranges of data,2011,Bland,Altman,10.1136/bmj.d556,http://www.bmj.com/content/342/bmj.d556 
+57,Comparisons within randomised groups can be very misleading,2011,Bland,Altman,10.1136/bmj.d561,http://www.bmj.com/content/342/bmj.d556 
+58,How to obtain the confidence interval from a P value,2011,Altman,Bland,10.1136/bmj.d2090,http://www.bmj.com/content/342/bmj.d556 
+59,How to obtain the P value from a confidence interval,2011,Altman,Bland,10.1136/bmj.d2304,http://www.bmj.com/content/343/bmj.d2304 
+60,Brackets (parentheses) in formulas,2011,Altman,Bland,10.1136/bmj.d570,http://www.bmj.com/content/343/bmj.d570
+61,Missing outcomes in randomised trials,2013,Vickers,Altman,10.1136/bmj.f3438,http://www.bmj.com/content/346/bmj.f3438 
+62,Uncertainty and sampling error,2014,Altman,Bland,10.1136/bmj.g7064,http://www.bmj.com/content/349/bmj.g7064 
+63,Uncertainty beyond sampling error,2014,Altman,Bland,10.1136/bmj.g7065,http://www.bmj.com/content/349/bmj.g7065 
+64,Bootstrap resampling methods,2015,Bland,Altman,10.1136/bmj.h2622,http://www.bmj.com/content/bmj/350/bmj.h2622
+65,Inverse probability weighting,2016,Mansournia,Altman,10.1136/bmj.i189,http://www.bmj.com/content/352/bmj.i189
+66,What is a percentage difference?,2017,Cole,Altman,10.1136/bmj.j3663,http://www.bmj.com/content/358/bmj.j3663 
+67,"Percentage differences, symmetry, and natural logarithms",2017,Cole,Altman,10.1136/bmj.j3683,http://www.bmj.com/content/358/bmj.j3663
+68,Population attributable fraction,2018,Mansournia,Altman,10.1136/bmj.k757,http://www.bmj.com/content/360/bmj.k757 
